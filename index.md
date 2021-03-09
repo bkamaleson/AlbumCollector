@@ -12,20 +12,20 @@
   <iframe src="https://open.spotify.com/embed/album/1srLA4OraIHfQP6WhR3iol" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   <iframe src="https://open.spotify.com/embed/album/1lDtUlOPGKp56gQ24MvmNG" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<h2> George Benson
+<h2> George Benson </h2>
   <iframe src="https://open.spotify.com/embed/album/5104eCHmSmfLDol9ZDQn0B" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   <iframe src="https://open.spotify.com/embed/album/2tqkMzsAAFDhOwjGGCkJZJ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<h2>RAMP
+<h2>RAMP </h2>
   <iframe src="https://open.spotify.com/embed/album/1kOJ865PwHtLwESKnzfB8G" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<h2>Ronnie Foster
+<h2>Ronnie Foster </h2>
   <iframe src="https://open.spotify.com/embed/album/2raiYCmtaHV9E2RFtovGfE" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<h2>Jack Wilkins
+<h2>Jack Wilkins </h2>
   <iframe src="https://open.spotify.com/embed/album/6CSRaAJ3krsCkhuMAzx4PD" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<h2>Ahmad Jamal
+<h2>Ahmad Jamal </h2>
   <iframe src="https://open.spotify.com/embed/album/34GHm1Z27zI3SfqAzqSPmM" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   <iframe src="https://open.spotify.com/embed/album/3nUwuIFxJid3GQo8c4F6HY" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   <iframe src="https://open.spotify.com/embed/album/61tuvxkgsvrsRQmoMSu6YA" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
